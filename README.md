@@ -108,10 +108,6 @@ Clone this repository
 Follow the step-by-step guides in each project folder
 Each guide is self-contained and production-tested
 
-bashgit clone https://github.com/soft-computech/devops-portfolio
-cd devops-portfolio
-# Navigate to any project folder and follow the README
-
 📝 Documentation Philosophy
 I believe in documentation that actually works:
 
